@@ -1,0 +1,22 @@
+{
+  "name": "mytodolist_nidanasar",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mytodolist-nidanasar": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nida Nasar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
